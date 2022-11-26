@@ -8,6 +8,8 @@
  <a href="#autor">Autor</a>
 </p>
 
+![Captura de tela 2022-11-26 115836](https://user-images.githubusercontent.com/91858793/204095351-8a30f21f-86aa-4bf4-9a55-899f086629dc.png)
+
 ### Objetivo
 ---
 Estudo sobre JavaScript, HTML e CSS
